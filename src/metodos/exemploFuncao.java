@@ -15,7 +15,7 @@ public class exemploFuncao {
     }
     
     public static void main(String[] args) {
-        int sm = somar(2,5);
+        int sm = somar(8,5);
         System.out.println("O valor da soma é: "+ sm);
     }
 }
